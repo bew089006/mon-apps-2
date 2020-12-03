@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
                     Icons.email,
                     color: Colors.teal.shade900,
                   ),
-                  title: Text('bew08900266@gmail.com'),
+                  title: Text('bew08900266999@gmail.com'),
                 ),
               ),
             ],
